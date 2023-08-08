@@ -57,7 +57,7 @@ input,
 textarea {
     background-color: transparent;
     border: 0;
-    border-bottom: 2px solid #828282;
+    border-bottom: 2.5px solid #828282;
 }
 
 input [type=submit] {
